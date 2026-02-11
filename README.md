@@ -10,4 +10,4 @@ VorixPlanner does not use cookies, third-party SDKs, analytics tools, or adverti
 
 All data remains private and is used solely to provide the app’s core functionality.
 
-Contact: support@yourdomain.com
+Contact: vorixplanner@gmail.com
