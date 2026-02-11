@@ -1,4 +1,4 @@
-# VorixPlanner Privacy
+# Official
 Privacy policy for the VorixPlanner iOS app.
 # Privacy Policy
 
